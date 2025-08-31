@@ -1,7 +1,7 @@
 # TUGAS-1-PWEB-A
 Mengetik Cepat
 
-Dalam lingkungan informatika, kita dipaksa untuk bisa mengetik cepat karena segala sesuatu dikerjakan dengan mengetik. Maka dari itu kita harus memaksimalkan cara kita untuk mengetik cepat bagaimanapun caranya. pada tugas minggu ini, kita diminta untuk berlatih mengetik dengan cepat tanpa melihat keyboard.Saya telah melakukan empat metode yang menurut saya cukup ampuh untuk bisa mengembangkan skill mengetik. 
+Dalam lingkungan informatika, kita diharuskan untuk bisa mengetik cepat karena segala sesuatu dikerjakan dengan mengetik. Maka dari itu kita harus memaksimalkan cara kita untuk mengetik cepat bagaimanapun caranya. pada tugas minggu ini, kita diminta untuk berlatih mengetik dengan cepat tanpa melihat keyboard.Saya telah melakukan empat metode yang menurut saya cukup ampuh untuk bisa mengembangkan skill mengetik. 
 ## Percobaan 1
 Untuk awalan, kita bisa coba untuk mengetik secepat mungkin tanpa memerhatikan kebenaran kata tersebut. berikut adalah hasil percobaannya :
 
